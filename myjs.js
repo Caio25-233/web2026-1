@@ -14,8 +14,8 @@ alert(2 + 3);
 
 alert('2' + '3')
 
-alert(number('2') + ('3'));
+alert(Number('2') + ('3'));
 
 alert('2' + 3);
 
-alert(number('2') + 3;
+alert(Number('2') + 3);
